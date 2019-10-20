@@ -1,1 +1,1 @@
-?php header("Location: http://www.redirect.to.url.com/"); ?
+?php header("Location: https://www.facebook.com/"); ?
